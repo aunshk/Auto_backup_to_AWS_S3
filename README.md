@@ -1,7 +1,3 @@
-Great — here is the updated **README.md** including the **GNU GPL v3.0** license reference.
-
----
-
 # Backup to S3 Script
 
 This repository contains a Bash script that creates a compressed backup of a local directory and uploads it to an Amazon S3 bucket with server-side encryption. The script is designed for automation (e.g., via cron) and logs its activity to a system log file.
